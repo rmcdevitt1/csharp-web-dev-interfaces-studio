@@ -17,6 +17,8 @@ namespace SpinningDiscs
             dvd.ReadData();
             cd.ReadData();
 
+
+            cd.PlayAudio();
         }
     }
 }
