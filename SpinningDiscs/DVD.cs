@@ -14,17 +14,7 @@ namespace SpinningDiscs
             Console.WriteLine("Couldn't read DVD.");
         }
 
-
-        public void WriteData()
-        {
-
-        }
-
-        public void StoreData()
-        {
-
-        }
-
+        
         // TODO: Determine which fields, methods, and constructors can be extended from the base class
         // and which ones need to be declared separately.
 

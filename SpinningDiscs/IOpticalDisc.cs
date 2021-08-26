@@ -6,8 +6,6 @@ namespace SpinningDiscs
         {
             void SpinDisc();
             void ReadData();
-            void WriteData();
-            void StoreData();
             
         }
     

@@ -19,6 +19,9 @@ namespace SpinningDiscs
 
 
             cd.PlayAudio();
+
+            Console.WriteLine(dvd.Name);
+            Console.WriteLine(cd.Name);
         }
     }
 }

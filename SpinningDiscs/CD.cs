@@ -14,17 +14,6 @@ namespace SpinningDiscs
             Console.WriteLine("Couldn't read CD.");
         }
 
-
-        public void WriteData()
-        {
-
-        }
-
-        public void StoreData()
-        {
-
-        }
-
         // TODO: Determine which fields, methods, and constructors can be extended from the base class and which ones
         //  need to be declared separately.
         public CD(string name, int capacity, string contents, string discType) : base(name, capacity, contents, discType)
