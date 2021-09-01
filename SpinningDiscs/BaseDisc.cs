@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
+
+//debugging
 namespace SpinningDiscs
 {
     public abstract class BaseDisc
